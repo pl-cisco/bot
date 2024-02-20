@@ -1,0 +1,266 @@
+
+		
+
+
+Introduction Extend intent-based networking everywhere
+Cisco ® Catalyst ® 9200 Series switches extend the power of intent-based networking and Catalyst 9000 hardware and software innovation to a broader set of deployments.
+With its family pedigree, Catalyst 9200 Series switches offer simplicity without compromise -it is secure, always on, and IT simplified.
+As foundational building blocks for the Cisco Digital Network Architecture, Catalyst 9200 Series switches help customers simplify complexity, optimize IT, and reduce operational costs by leveraging intelligence, automation and human expertise that no other vendor can deliver regardless of where you are in the intent -based networking journey.
+Catalyst 9200 Series switches provide security features that protect the integrity of the hardware as well as the software and all data that flows through the switch.
+It provides resiliency that keeps your business up and running seamlessly.
+Combine that with open APIs of Cisco IOS XE ® and programmability of the UADP ASIC technology, Catalyst 9200 Series switches give you what you need now with investment protection on future innovations.
+With full PoE+ capability, power and fan redundancy, stacking bandwidth up to 160 Gbps , modular uplinks, Layer 3 feature support, and cold patching, Catalyst 9200 Series switches are the industry's unparalleled solution with differentiated resiliency and progressive architecture for cost-effective branch-office access.
+Catalyst 9200 Series switches also provide operational choice of CLI, Cisco Catalyst Center (formerly Cisco DNA Center) on-premises management, or cloud monitoring for Catalyst on Meraki dashboard.
+Product overview
+Product highlights
+• Full Power over Ethernet Plus (PoE+) capability for up to 48 ports for C9200.
+Power over Ethernet Plus (PoE+) capability for up to 12 ports, IEEE 802.3bt class 6 and Cisco UPOE capability for up to 8 ports for C9200CX.
+• Resiliency with Field-Replaceable Units (FRU) and redundant power supply, fans, and modular uplinks for C9200 models.
+C9200CX models are fanless and are powered by internal fixed power supply or optional power adapters, when not powered by upstream IEEE 802.3bt class 6 60W PSE.
+• Flexible power source options from line voltage AC, low voltage DC to High Voltage DC (HVDC) in C9200CX models provide the choices for customers to migrate to efficient DC micro grid powered by renewable energy sources for a sustainable future.
+• Flexible downlink options with data, PoE+, UPOE, UPOE with mGig for Wi-Fi 6/6E.
+• Operational efficiency with optional backplane stacking, supporting stacking bandwidth up to 160 Gbps.
+• UADP 2.0 Mini with integrated CPU offers customers optimized scale with better cost structure.
+• Enhanced security with AES-128 MACsec encryption on C9200 and AES-256 MACsec encryption for C9200CX models, policy-based segmentation, and trustworthy solutions for the whole Catalyst 9200 Series.
+• Layer 3 https://apps.cisco.com/Commerce/
+and CLI operations options
+Network modules
+Cisco Catalyst 9200 Series switches come with modular or fixed uplinks as indicated in Table 
+1
+With modular SKUs, the field-replaceable network modules provide infrastructure investment protection by allowing a nondisruptive migration from 1G to 10G and beyond.
+When you purchase the switch, you can choose from the network modules described in Table 
+3
+For additional details, please read our FAQ: https://www.cisco.com/c/dam/en/us/products/collateral/switches/catalyst-9000/nb-09-cat-9k-faq-cteen.pdf.
+Platform resiliency
+Power supplies
+Cisco Catalyst 9200 Series switches support dual field-replaceable power supplies (Figure 
+3
+Each switch ships with one default power supply, and a second identical power supply can be purchased with the initial order or can be added later.
+The second power supply can provide redundancy or additional power to PoE+ ports as needed.
+Cisco Catalyst 9200CX Series HVDC models can be powered by high voltage DC as well as line voltage AC with its default power supply.
+These switches support high efficiency and low energy consumption when connected to DC micro grid by avoiding multiple AC-DC conversions.
+The compatibility with AC also provides flexibility and investment protection for moving to DC power in the future.
+• IEEE 802.3bt
+Class 6 and Cisco UPOE (up to 60W per port) is supported on Catalyst 9200CX Series mGig model.
+This facilitates delivery of network power to devices requiring higher power.
+Intelligent PoE+
+• PoE Powered Device (PD) -Catalyst 9200CX-12T-2X2G can be powered through the uplink with IEEE 802.3bt class 6 or UPOE+ power from upstream switch.
+• Perpetual PoE is supported on Cisco Catalyst 9200 Series switches, and maintains the PoE+ power during a switch reload.
+This is important for critical endpoints such as medical devices and for Internet of Things (IoT) endpoints such as PoE-powered lights, so that there is no disruption during a switch reboot.
+• Fast PoE: When power is restored to a switch, Fast PoE starts delivering power to endpoints without waiting for the operating system to fully load, thereby speeding up the time for the endpoint to start up .
+
+Cisco Catalyst 9200 Series switch models are designed for stacking switches as a single virtual sw itch, enabling customers to have a single management plane and control plane for up to 384 access ports.
+Fan
+Cisco Catalyst 9200 Series switches also come with dual fans and support redundancy.
+Cisco Catalyst 9200 Series switches support redundancy with dual fans.
+On the C9200 SKUs, the fan units are field -replaceable, whereas on the fixed C9200L SKUs, the fan units are fixed.
+C9200CX SKUs are fanless.
+• Automated device provisioning is the ability to automate the process of upgrading software images and installing configuration files on Cisco Catalyst switches when they are being deployed in the network for the first time.
+Cisco provides turnkey solutions such as Plug and Play and Preboot Execution Environment (PXE) that enable an effortless and automated deployment.
+Performance and scalability
+Performance specifications
+• API-driven configuration is available with modern network switches such as Cisco Catalyst 9200 Series switches.
+It supports a wide range of automation features and provides robust open APIs over NETCONF and RESTCONF using YANG data models for external tools, both off the shelf and custom built, to automatically provision network resources.
+• Granular visibility enables model-driven telemetry to stream data from a switch to a destination.
+The data to be streamed is identified through subscription to a data set in a YANG model.
+The subscribed data set is streamed to the destination at specified intervals.
+Additionally, Cisco IOS XE enables the push model.
+It provides near-real-time monitoring of the network, leading to quick detection and rectification of failures.
+Cloud monitoring for Catalyst is also available.
+• Seamless software upgrades and patching supports OS resilience.
+On Cisco Catalyst 9200 Series switches Cisco IOS XE supports cold patching with reboot, which provides fixes for critical bugs and security vulnerabilities between regular maintenance releases.
+This support lets you add patches without having to wait for the next maintenance release.
+Cold patching requires the switch to be rebooted after patching to allow the changes to take effect.
+• Trustworthy solutions built with Cisco Trust Anchor Technologies provide a highly secure foundation for Cisco products.
+With Cisco Catalyst 9200 Series switches, these technologies enable hardware and software authenticity assurance for supply chain trust and strong mitigation against man-in-the-middle attacks that compromise software and firmware.
+Trust Anchor capabilities include image signing, Secure Boot, and Cisco Trust Anchor module.
+• High availability: Cisco Catalyst 9200 Series switches support high-availability features, including the following:
+• Cross-stack EtherChannel provides the ability to configure Cisco EtherChannel technology across different members of the stack for high resiliency.
+• IEEE 802.1s
+Multiple Spanning Tree Protocol (MSTP) provides rapid spanning tree convergence independent of spanning tree timers and also offers the benefit of Layer 2 load balancing and distributed processing.
+• Per-VLAN Rapid Spanning Tree (PVRST+) allows rapid spanning tree (IEEE 802.1w) reconvergence on a per-VLAN spanning tree basis, providing simpler configuration than MSTP.
+In both MSTP and PVRST+ modes, stacked units behave as a single spanning tree node.
+• Switch-port auto-recovery ("err-disable" recovery) automatically attempts to reactivate a link that is disabled because of a network error.
+• The Catalyst 9200 Series platform delivers the best SSO resiliency architecture in a stackable solution with sub-50-ms failover.
+The Foundation of Software-Defined Access
+Secure Segmentation with SD-Access
+Software-Defined Access
+The enterprise network lies at the heart of digital transformation.
+A network that is open, programmable, integrated, and secure maximizes business agility, allowing new business opportunities to be pursued and captured.
+Cisco DNA with SD-Access is the network fabric that powers business.
+It is an open and extensible softwaredriven architecture that accelerates and simplifies your enterprise network operations.
+The programmable architecture frees your IT staff from time-consuming, repetitive network configuration tasks so they can focus instead on innovation that positively transforms your business.
+SD-Access enables policy-based automation from edge to cloud with foundational capabilities.
+These include:
+• Simplified device deployment
+• Unified management of wired and wireless networks
+• Network virtualization and segmentation
+• Group-based policies
+• Context-based analytics
+• SD-Access: Cisco Catalyst 9200 Series switches are the entry-level devices for SD-Access, Cisco's lead enterprise architecture, with policy-based automation from edge to cloud.
+• Simplified segmentation and micro-segmentation, with predictable performance and scalability
+• Automation through Cisco Catalyst Center
+• Policy handled through the Cisco Identity Services Engine (ISE)
+• Faster launch of new business services and significantly improved issue resolution time
+Assurance
+• Full network visibility and monitoring
+• End-to-end Quality of Experience (QoE)
+• Fast issue resolution and network remediation
+• Plug and Play (PnP) enabled: A simple, secure, unified, and integrated offering to ease new branch or campus device rollouts or updates to an existing network
+Cloud Security Umbrella Integration
+• Umbrella Integration: Small to midsize networks reliant on managed service providers can now host Cisco Umbrella agent directly on their Catalyst 9200 series switches.
+This allows the business to easily customize their DNS filtering policies to prevent BYOD or IoT guest or corporate users from accessing malicious or inappropriate websites, without having to rely on the MSP to push the policies out.
+It also lets them optimize use of bandwidth by allowing direct cloud access for trusted apps.
+Requires Cisco DNA-Advantage License and Umbrella License per device.
+Full Flexible NetFlow
+• Full Flexible NetFlow (FNF): Cisco IOS FNF is the next generation in flow visibility technology.
+It enables optimization of the network infrastructure, reduces operation costs, and improves capacity planning and security incident detection with increased flexibility and scalability.
+Catalyst 9200 Series switches are capable of up to 16,000 flow entries on 48-port,24, 12 and 8 port models.
+QoS
+• Superior QoS: Cisco Catalyst 9200 Series switches offer Gigabit Ethernet speeds with intelligent services that keep traffic flowing smoothly, even at 10 times the normal network speed.
+Industry-leading mechanisms for cross-stack marking, classification, and scheduling deliver superior performance for data, voice, and video traffic at wire speed.
+Superior QoS includes granular wireless bandwidth management and fair sharing, 802.1p
+Class of Service (CoS) and Differentiated Services Code Point (DSCP) field classification, Shaped Round Robin (SRR) scheduling, Committed Information Rate (CIR), and eight egress queues per port.
+Smart operation
+WebUI
+WebUI is an embedded GUI-based device-management tool that provides the ability to provision the device, to simplify device deployment and manageability, and to enhance the user experience.
+It comes with the default image, so there is no need to enable anything or install any license on the device.
+You can use WebUI to build configurations, and to monitor and troubleshoot the device without having CLI expertise.
+RFID tags
+Cisco Catalyst 9200 Series switches have an embedded RFID tag that facilitates easy asset and inventory management using commercial RFID readers.
+Blue beacon
+Cisco Catalyst 9200 Series switches support both front and back blue beacon LEDs for easy identification of the switch being accessed.
+Efficient switch operation
+Cisco Catalyst 9200 Series switches provide optimum power saving with Energy Efficient Ethernet (EEE) on the RJ-45 ports and low-power operations for industry best-in-class power management and power consumption capabilities.
+The ports support reduced power modes so that ports not in use can move into a lower power utilization state.
+Other efficient switch operation features are as follows:
+• Per-port power consumption command allows customers to specify a maximum power setting on an individual port.
+• Per-port PoE power sensing measures actual power being drawn, enabling more intelligent control of powered devices.
+The PoE MIB provides proactive visibility into power usage and allows you to set different power-level thresholds.
+Bluetooth ready
+Cisco Catalyst 9200 Series switches have hardware support to connect a Bluetooth dongle to your switch, enabling you to use this wireless interface as an IP management port interface.
+The port can be used for configuration and troubleshooting using WebUI or the Command-Line Interface (CLI), and to transfer images and configurations.
+Storage
+Cisco Catalyst 9200CX switches have hardware support for up to 4G Micro-SD card storage.
+High-performance IP routing
+The Cisco Express Forwarding hardware routing architecture delivers extremely high-performance IP routing in Cisco Catalyst 9200 Series switches, based on: • Protocol-Independent Multicast (PIM) for IP multicast routing is supported, including PIM sparse mode (PIM SM), and Source-Specific Multicast (SSM).
+• IPv6 addressing is supported on interfaces with appropriate show commands for monitoring and troubleshooting.
+Licensing
+Introduction to Smart Licensing
+Cisco Smart Licensing is a flexible licensing model that provides you with an easier, faster, and more consistent way to purchase and manage software across the Cisco portfolio and across your organization.
+And it's secure -you control what users can access.
+With Smart Licensing you get:
+• Easy Activation: Smart Licensing establishes a pool of software licenses that can be used across the entire organization-no more PAKs (Product Activation Keys).
+• Unified Management: My Cisco Entitlements (MCE) provides a complete view into all of your Cisco products and services in an easy-to-use portal, so you always know what you have and what you are using.
+• License Flexibility: Your software is not node-locked to your hardware, so you can easily use, and transfer licenses as needed.
+To use Smart Licensing, you must first set up a Smart Account on Cisco Software Central (software.cisco.com).
+For a more detailed overview on Cisco Licensing, go to cisco.com/go/licensingguide
+Software licenses
+Managing licenses with Smart Accounts
+Creating Smart Accounts by using the Cisco Smart Software Manager (Cisco SSM) enables you to order devices and licensing packages and also manage your software licenses from a centralized website.
+You can set up Cisco SSM to receive daily email alerts and to be notified of expiring add-on licenses that you want to renew.
+You must order an add-on license in order to purchase a switch.
+When the license term expires, you can either renew the add-on license to continue using it or deactivate the add-on license and then reload the switch to continue operating with the base license capabilities.
+Both the base and add-on licenses are also available for a 90-day evaluation period.
+An evaluation license is activated temporarily, without purchase.
+An expired evaluation license cannot be reactivated after reload.
+Note: It is not required to deploy Cisco Catalyst Center, just to use one of the above packages.
+Table 
+11
+Table 
+12
+Product sustainability
+Refer to the CSR/Social Responsibility section for more information on Cisco's environmental sustainability policies and initiatives.
+• LpA: 42dB typical, 45 dB max
+• LwA: 5.3B typical, 5.6B max With AC power supply (with 24 PoE+ ports loaded):
+• LpA: 42dB typical, 45 dB max
+• LwA: 5.3B typical, 5.6B max Typical: Noise emission for a typical configuration Maximum: Statistical maximum to account for variation in production
+Connectors
+Table 
+16
+Power connectors
+• Internal power supply connector: The internal power supply is an auto-ranging unit.
+It supports input voltages between 100 and 240 VAC.
+Use the supplied AC power cord to connect the AC power connector to an AC power outlet.
+For the latest Cisco transceiver module compatibility information, refer to https://www.cisco.com/c/en/us/td/docs/interfaces_modules/transceiver_modules/compatibility/matrix/TMG_C
+M_Tool_User_Manual.html.
+Management and standards support
+Table 
+17
+Power supply specifications
+Operating temperature
+Normal operating temperature * and altitudes:
+• -5°C to +45°C, up to 5000 feet (1500m) (-5°C to +40°C for C9200CX-8UXG-2X and C9200CX-8UXG-2XH)
+• -5°C to +40°C, up to 10,000 feet (3000m) * Minimum ambient temperature for cold start is 32°F (0°C) Short-term * exceptional conditions: (9200L/9200 only)
+• -5°C to +50°C, up to 5000 feet (1500m)
+• -5°C to +45°C, up to 10,000 feet (3000m)
+• -5°C to +45°C, at sea level with single fan failure * Not more than following in one-year period: 96 consecutive hours, or 360 hours total, or 15 occurrences
+Description
+LED indicators
+"AC OK": Input power to the power supply is OK "PS OK": Output power from the power supply is OK * Use shielded cables for locations other than telecom centers
+Power consumption of Standalone 9200 Series switches
+Safety and compliance
+
+• CISPR 35 Your formal warranty statement, including the warranty applicable to Cisco software, appears in the information packet that accompanies your Cisco product.
+We encourage you to review the warranty statement shipped with your specific product carefully before use.
+Cisco reserves the right to refund the purchase price as its exclusive warranty remedy.
+For further information about warranty terms, visit https://www.cisco.com/go/warranty.
+Warranty duration
+As long as the original customer owns the product.
+End-of-life policy
+In the event of discontinuance of product manufacture, Cisco warranty support is limited to 5 years from the announcement of discontinuance.
+Hardware replacement
+Cisco or its service center will use commercially reasonable eff orts to ship a replacement for NBD delivery, where available.
+Otherwise, a replacement will be shipped within 10 working days after receipt of the Return Materials Authorization (RMA) request.
+Actual delivery times might vary depending on customer location.
+Effective date
+Hardware warranty commences from the date of shipment to customer (and in case of resale by a Cisco reseller, not more than 90 days after original shipment by Cisco).
+TAC support
+Cisco will provide during business hours, 8 hours per day, 5 days per week, basic configuration, diagnosis, and troubleshooting of device-level problems for up to a 90-day period from the date of shipment of the originally purchased Cisco Catalyst 9200 Series product.
+This support does not include solution or network-level support beyond the specific device under consideration.
+Cisco.com access
+Warranty allows guest access only to Cisco.com.
+* For 9200CX switch models with internal HVDC power supply, customer or system integrator is responsible for the power cable as HVDC switches are usually installed in DC micro grid with customized cables and connectors.
+For more information, please consult with your Cisco sales representative.
+Cisco services for next-generation Cisco Catalyst switches
+Ordering
+Ordering information
+Mounting Accessories
+Cisco Capital
+Flexible payment solutions to help you achieve your objectives
+Cisco Capital makes it easier to get the right technology to achieve your objectives, enable business transformation and help you stay competitive.
+We can help you reduce the total cost of ownership, conserve capital, and accelerate growth.
+In more than 100 countries, our flexible payment solutions can help you acquire hardware, software, services and complementary third-party equipment in easy, predictable payments.
+Learn more.
+
+* Measured with 64 byte packets
+Software Platform software benefits Cisco IOS XE Cisco
+IOS XE Software opens a completely new paradigm in network configuration, operation, and monitoring through network automation.
+Cisco's automation solution is open, standards-based, and extensible across the entire lifecycle of a network device.
+The various automation mechanisms are outlined below.
+IP unicast routing protocols (including static, Routing Information Protocol Version 1 [RIPv1], RIPv2, RIPng, and Open Shortest Path First [OSPF], Routed Access) are supported fo r small network routing applications with the Network Essentials stack.
+Equal-cost routing facilitates Layer 3 load balancing and redundancy across the stack.
+• Advanced IP unicast routing protocols (including Full [OSPF], Enhanced Interior Gateway Routing
+Protocol [EIGRP], and Intermediate System-to-Intermediate System Version 4 [IS-ISv4]) are supported
+for load balancing and for constructing scalable LANs. Ipv6 routing (using OSPFv3 and EIGRPv6) is
+supported in hardware for maximum performance.
+
+Power supplies
+Product
+
+
+				
+
+
+
+
+	
+
+		
+CX HVDC models can also operate at 115V or 230V AC
+
+			
+*
+C9200
+the power consumption is the same as the corresponding AC models
+* C9200CX HVDC models can also operate at 115V or 230V AC, the power consumption is the same as the corresponding AC models.

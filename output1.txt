@@ -1,0 +1,1913 @@
+
+	
+
+		
+
+			
+
+				
+Cisco Catalyst 9200 Series Switches
+
+					
+Cisco DNA Advantage Upgrade
+
+					
+Cisco DNA Essentials
+
+					
+NW and Cisco DNA Essentials
+
+					
+NW and Cisco DNA Ess
+
+					
+Cisco DNA Adv Upgrade License
+
+				
+
+				
+
+					
+
+						
+
+							
+C9200
+Cisco
+
+								
+Gbps 288 Gbps 95.23 Mpps 214 Mpps C9200-24P Gbps 288 Gbps 95.23 Mpps 214 Mpps C9200-24PB Gbps 288 Gbps 95.23 Mpps 214 Mpps C9200-24PXG Gbps 532 Gbps 261.90 Mpps 395 Mpps C9200-48T Gbps 336 Gbps 130.95 Mpps 250 Mpps C9200-48P Gbps 336 Gbps 130.95 Mpps 250 Mpps C9200-48PL Gbps 336 Gbps 130.95 Mpps 250 Mpps C9200-48PB Gbps 336 Gbps 130.95 Mpps 250 Mpps C9200-48PXG Gbps 580 Gbps 297.61 Mpps 431 Mpps C9200L-24T-4G Gbps 136 Gbps 41.66 Mpps 101 Mpps C9200L-24P-4G Gbps 136 Gbps 41.66 Mpps 101 Mpps C9200L-48T-4G Gbps 184 Gbps 77.38 Mpps 137 Mpps C9200L-48P-4G Gbps 184 Gbps 77.38 Mpps 137 Mpps C9200L-48PL-4G Gbps 184 Gbps 77.38 Mpps 137 Mpps C9200L-24T-4X Gbps 208 Gbps 95.23 Mpps 155 Mpps C9200L-24P-4X Gbps 208 Gbps 95.23 Mpps 155 Mpps C9200L-48T-4X Gbps 256 Gbps 130.95 Mpps 190 Mpps C9200L-48P-4X Gbps 256 Gbps 130.95 Mpps 190 Mpps C9200L-48PL-4X Gbps 256 Gbps 130.95 Mpps 190 Mpps C9200L-24PXG-4X Gbps 352 Gbps 214.28 Mpps 262 Mpps C9200L-24PXG-2Y Gbps 372 Gbps 229.16 Mpps 277 Mpps C9200L-48PXG-4X Gbps 472 Gbps 291.66 Mpps 351 Mpps C9200L-48PXG-2Y Gbps 420 Gbps 252.97 Mpps 313 Mpps
+
+									
+136 Gbps 41.66 Mpps 101 Mpps C9200L-24P-4G Gbps 136 Gbps 41.66 Mpps 101
+Gbps 288 Gbps 95.23 Mpps 214 Mpps C9200-24P Gbps 288 Gbps 95.23 Mpps 214 Mpps C9200-24PB Gbps 288 Gbps 95.23 Mpps 214 Mpps C9200-24PXG Gbps 532 Gbps 261.90 Mpps 395 Mpps C9200-48T Gbps 336 Gbps 130.95 Mpps 250 Mpps C9200-48P Gbps 336 Gbps 130.95 Mpps 250 Mpps C9200-48PL Gbps 336 Gbps 130.95 Mpps 250 Mpps C9200-48PB Gbps 336 Gbps 130.95 Mpps 250 Mpps C9200-48PXG Gbps 580 Gbps 297.61 Mpps 431, Gbps 184 Gbps 77.38 Mpps 137 Mpps C9200L-48P-4G Gbps 184 Gbps 77.38 Mpps 137 Mpps C9200L-48PL-4G Gbps 184 Gbps 77.38 Mpps 137, Gbps 256 Gbps 130.95 Mpps 190 Mpps C9200L-48P-4X Gbps 256 Gbps 130.95 Mpps 190 Mpps C9200L-48PL-4X Gbps 256 Gbps 130.95 Mpps 190
+C9200L-24T-4G, C9200L-48T-4G, C9200L-24T-4X, 208, 95.23, 155, C9200L-24P-4X, 208, 95.23, 155, C9200L-48T-4X, C9200L-24PXG-4X, 352, 214.28, 262, C9200L-24PXG-2Y, 372, 229.16, 277, C9200L-48PXG-4X, 472, 291.66, 351, C9200L-48PXG-2Y, 420, 252.97, 313
+Mpps, Gbps, Mpps, Mpps, Gbps, Gbps, Mpps, Mpps, Gbps, Gbps, Mpps, Mpps, Mpps, Gbps, Gbps, Mpps, Mpps, Gbps, Gbps, Mpps, Mpps, Gbps, Gbps, Mpps, Mpps, Gbps, Gbps, Mpps, Mpps
+Cisco Catalyst 9200 Series Switches
+
+						
+
+							
+F98C1EE6304EA49594F2835A992931CF
+
+			
+
+				
+
+					
+GROBID - A machine learning software for extracting information from scholarly documents
+
+			
+
+				
+
+					
+Bandwidth specifications Table 9. Bandwidth specifications Description Switching capacity Switch capacity with Stacking Forwarding rate Forwarding rate with Stacking C9200-24T C9200CX-12P-2X2G Gbps N/A 50.59 Mpps N/A Catalyst 9200L 24-port Data 4x1G uplink Switch
+Network Advantage C9200L-24T-4G-E Catalyst 9200L 24-port Data 4x1G uplink Switch
+Network Essentials C9200L-24P-4G-A Catalyst 9200L 24-port PoE+ 4x1G uplink Switch
+Network Advantage C9200L-24P-4G-E Catalyst 9200L 24-port PoE+ 4x1G uplink Switch
+Network Essentials C9200L-48T-4G-A Catalyst 9200L 48-port Data 4x1G uplink Switch
+Network Advantage C9200L-24T-4X-A Catalyst 9200L 24-port Data 4x10G uplink Switch
+Network Advantage C9200L-24T-4X-E Catalyst 9200L 24-port Data 4x10G uplink Switch
+Network Essentials C9200L-24P-4X-A Catalyst 9200L 24-port PoE+ 4x10G uplink Switch
+Network Advantage C9200L-24P-4X-E Catalyst 9200L 24-port PoE+ 4x10G uplink Switch
+Network Essentials C9200L-48T-4X-A Catalyst 9200L 48-port Data 4x10G uplink Switch
+Network Advantage C9200L-48T-4X-E Catalyst 9200L 48-port Data 4x10G uplink Switch
+Network Essentials C9200L-48P-4X-A Catalyst 9200L 48-port PoE+ 4x10G uplink Switch
+Network Advantage C9200L-48P-4X-E Catalyst 9200L 48-port PoE+ 4x10G uplink Switch
+Network Essentials C9200L-48PL-4X-A Catalyst 9200L 48-port partial PoE+ 4x10G uplink Switch
+Network Advantage C9200L-48PL-4X-E Catalyst 9200L 48-port partial PoE+ 4x10G uplink Switch
+Network Essentials C9200L-24PXG-4X-E Catalyst 9200L 24-port 8xmGig
+16x1G
+4x10G
+PoE+
+Network Essentials Product number Product description C9200L-24PXG-4X-A Catalyst 9200L 24-port 8xmGig
+16x1G
+4x10G
+PoE+
+Network Advantage C9200L-48PXG-4X-E Catalyst 9200L 48-port 12xmGig
+36x1G
+4x10G PoE+
+Network Essentials C9200L-48PXG-4X-A Catalyst 9200L 48-port 12xmGig
+36x1G
+4x10G PoE+
+Network Advantage C9200L-24PXG-2Y-E Catalyst 9200L 24-port 8xmGig
+16x1G
+2x25G
+PoE+
+Network Essentials C9200L-24PXG-2Y-A Catalyst 9200L 24-port 8xmGig
+16x1G
+2x25G
+PoE+
+Network Advantage C9200L-48PXG-2Y-E Catalyst 9200L 48-port 8xmGig
+40x1G
+2x25G PoE+
+Network Essentials C9200L-48PXG-2Y-A Catalyst 9200L 48-port 8xmGig
+40x1G
+2x25G PoE+
+Network Advantage C9200CX models Table 27. C9200CX Models Ordering information Product number Product description C9200CX-12T-2X2G-E Catalyst 9200CX 12-port 1G
+2x10G and 3x1G
+data
+Network Essentials C9200CX-12T-2X2G-A Catalyst 9200CX 12-port 1G
+2x10G and 3x1G
+data
+Network Advantage C9200CX-12P-2X2G-E Catalyst 9200CX 12-port 1G
+2x10G and 2x1G
+PoE+
+Network Essentials C9200CX-12P-2X2G-A Catalyst 9200CX 12-port 1G
+2x10G and 2x1G
+PoE+
+Network Advantage C9200CX-8P-2X2G-E Catalyst 9200CX 8-port 1G
+2x10G and 2x1G
+PoE+
+Network Essentials C9200CX-8P-2X2G-A Catalyst 9200CX 8-port 1G
+2x10G and 2x1G
+PoE+
+Network Advantage C9200CX-8UXG-2X-E Catalyst 9200CX 4-port mGig and 4-port 1G
+2x10G
+UPOE
+Network Essentials C9200CX-8UXG-2X-A Catalyst 9200CX 4-port mGig and 4-port 1G
+2x10G
+UPOE
+Network Advantage C9200CX-12P-2XGH-E Catalyst 9200CX 12-port 1G
+2x10G and 2x1G
+PoE+
+HVDC
+Network Essentials C9200CX-12P-2XGH-A Catalyst 9200CX 12-port 1G
+2x10G and 2x1G
+PoE+
+HVDC
+Network Advantage C9200CX-8P-2XGH-E Catalyst 9200CX 8-port 1G
+2x10G and 2x1G
+PoE+
+HVDC
+Network Essentials C9200CX-8P-2XGH-A Catalyst 9200CX 8-port 1G
+2x10G and 2x1G
+PoE+
+HVDC
+Network Advantage C9200CX-8UXG-2XH-E Catalyst 9200CX 4-port mGig and 4-port 1G
+2x10G
+UPOE
+HVDC
+Network Essentials C9200CX-8UXG-2XH-A Catalyst 9200CX 4-port mGig and 4-port 1G
+2x10G
+UPOE
+HVDC
+Network Advantage Software licenses C9200 software licenses Table 28. C9200 Models Ordering information -software licenses C9200 Cisco DNA software licenses Product number Product description C9200-DNA-E-24 C9200 Cisco DNA Essentials Term 24-port C9200-DNA-E-24-3Y C9200 Cisco DNA Essentials
+24-port
+3 Year Term license C9200-DNA-E-24-5Y C9200 Cisco DNA Essentials
+24-port
+5 Year Term license C9200-DNA-E-24-7Y C9200 Cisco DNA Essentials
+24-port
+7 Year Term license C9200-DNA-E-48 C9200 Cisco DNA Essentials Term 48-port C9200-DNA-E-48-3Y C9200 Cisco DNA Essentials
+48-port
+3 Year Term license C9200-DNA-E-48-5Y C9200 Cisco DNA Essentials
+48-port
+5 Year Term license C9200-DNA-E-48-7Y C9200 Cisco DNA Essentials
+48-port
+7 Year Term license C9200-DNA-A-24 C9200 Cisco DNA Advantage Term 24-port C9200-DNA-A-24-3Y C9200 Cisco DNA Advantage
+24-port
+3 Year Term license C9200-DNA-A-24-5Y C9200 Cisco DNA Advantage
+24-port
+5 Year Term license C9200-DNA-A-24-7Y C9200 Cisco DNA Advantage
+24-port
+7 Year Term license C9200-DNA-A-48 C9200 Cisco DNA Advantage Term 48-port C9200-DNA-A-48-3Y C9200 Cisco DNA Advantage
+48-port
+3 Year Term license C9200-DNA-A-48-5Y C9200 Cisco DNA Advantage
+48-port
+5 Year Term license C9200-DNA-A-48-7Y C9200 Cisco DNA Advantage
+48-port
+7 Year Term license Catalyst software licenses senses Product number Product description C9200-DNX-E-24-3Y C9200 Cisco Catalyst Essentials
+24-port
+3 Year Term license C9200-DNX-E-24-5Y C9200 Cisco Catalyst Essentials
+24-port
+5 Year Term license C9200-DNX-E-24-7Y C9200 Cisco Catalyst Essentials
+24-port
+7 Year Term license C9200-DNX-E-48-3Y C9200 Cisco Catalyst Essentials
+48-port
+3 Year Term license C9200-DNX-E-48-5Y C9200 Cisco Catalyst Essentials
+48-port
+5 Year Term license C9200-DNX-E-48-7Y C9200 Cisco Catalyst Essentials
+48-port
+7 Year Term license C9200-DNX-A-24-3Y C9200 Cisco Catalyst Advantage
+24-port
+3 Year Term license C9200-DNX-A-24-5Y C9200 Cisco Catalyst Advantage
+24-port
+5 Year Term license C9200-DNX-A-24-7Y C9200 Cisco Catalyst Advantage
+24-port
+7 Year Term license C9200-DNX-A-48-3Y C9200 Cisco Catalyst Advantage
+48-port
+3 Year Term license C9200-DNX-A-48-5Y C9200 Cisco Catalyst Advantage
+48-port
+5 Year Term license C9200-DNX-A-48-7Y C9200 Cisco Catalyst Advantage
+48-port
+7 Year Term license C9200L software licenses Table 29. C9200L Models Ordering information -software licenses C9200L Cisco DNA software licenses Product Number Product Description C9200L-DNA-E-24 C9200L Cisco DNA Essentials Term 24-port C9200L-DNA-E-24-3Y C9200L Cisco DNA Essentials
+24-port
+3 Year Term license C9200L-DNA-E-24-5Y C9200L Cisco DNA Essentials
+24-port
+5 Year Term license C9200L-DNA-E-24-7Y C9200L Cisco DNA Essentials
+24-port
+7 Year Term license C9200L-DNA-E-48 C9200L Cisco DNA Essentials Term 48-port C9200L-DNA-E-48-3Y C9200L Cisco DNA Essentials
+48-port
+3 Year Term license C9200L-DNA-E-48-5Y C9200L Cisco DNA Essentials
+48-port
+5 Year Term license C9200L-DNA-E-48-7Y C9200L Cisco DNA Essentials
+48-port
+7 Year Term license C9200L-DNA-A-24 C9200L Cisco DNA Advantage Term 24-port C9200L-DNA-A-24-3Y C9200L Cisco DNA Advantage
+24-port
+3 Year Term license C9200L-DNA-A-24-5Y C9200L Cisco DNA Advantage
+24-port
+5 Year Term license C9200L-DNA-A-24-7Y C9200L Cisco DNA Advantage
+24-port
+7 Year Term license C9200L-DNA-A-48 C9200L Cisco DNA Advantage Term 48-port C9200L-DNA-A-48-3Y C9200L Cisco DNA Advantage
+48-port
+3 Year Term license C9200L-DNA-A-48-5Y C9200L Cisco DNA Advantage
+48-port
+5 Year Term license C9200L-DNA-A-48-7Y C9200L Cisco DNA Advantage
+48-port
+7 Year Term license C9200L Cisco Catalyst software licenses Product number Product description C9200L-DNX-E-24-3Y C9200L Cisco Catalyst Essentials
+24-port
+3 Year Term license C9200L-DNX-E-24-5Y C9200L Cisco Catalyst Essentials
+24-port
+5 Year Term license C9200L-DNX-E-24-7Y C9200L Cisco Catalyst Essentials
+24-port
+7 Year Term license C9200L-DNX-E-48-3Y C9200L Cisco Catalyst Essentials
+48-port
+3 Year Term license C9200L-DNX-E-48-5Y C9200L Cisco Catalyst Essentials
+48-port
+5 Year Term license C9200L-DNX-E-48-7Y C9200L Cisco Catalyst Essentials
+48-port
+7 Year Term license C9200L-DNX-A-24-3Y C9200L Cisco Catalyst Advantage
+24-port
+3 Year Term license C9200L-DNX-A-24-5Y C9200L Cisco Catalyst Advantage
+24-port
+5 Year Term license C9200L-DNX-A-24-7Y C9200L Cisco Catalyst Advantage
+24-port
+7 Year Term license C9200L-DNX-A-48-3Y C9200L Cisco Catalyst Advantage
+48-port
+3 Year Term license C9200L-DNX-A-48-5Y C9200L Cisco Catalyst Advantage
+48-port
+5 Year Term license C9200L-DNX-A-48-7Y C9200L Cisco Catalyst Advantage
+48-port
+7 Year Term license C9200CX software licenses Table 30. C9200CX Models Ordering information -software licenses C9200CX Cisco DNA software licenses Product Number Product Description C9200CX-DNA-E-8 C9200CX Cisco DNA Essentials Term 8-port C9200CX-DNAE-8-3Y C9200CX Cisco DNA Essentials
+8-port
+3 Year Term license C9200CX-DNAE-8-5Y C9200CX Cisco DNA Essentials
+8-port
+5 Year Term license C9200CX-DNAE-8-7Y C9200CX Cisco DNA Essentials
+8-port
+7 Year Term license C9200CX-DNA-A-8 C9200CX Cisco DNA Advantage Term 8-port C9200CX-DNAA-8-3Y C9200CX Cisco DNA Advantage
+8-port
+3 Year Term license C9200CX-DNAA-8-5Y C9200CX Cisco DNA Advantage
+8-port
+5 Year Term license C9200CX-DNAA-8-7Y C9200CX Cisco DNA Advantage
+8-port
+7 Year Term license C9200CX-DNA-E-12 C9200CX Cisco DNA Essentials Term 12-port C9200CX-DNAE-12-3Y C9200CX Cisco DNA Essentials
+12-port
+3 Year Term license C9200CX-DNAE-12-5Y C9200CX Cisco DNA Essentials
+12-port
+5 Year Term license C9200CX-DNAE-12-7Y C9200CX Cisco DNA Essentials
+12-port
+7 Year Term license C9200CX-DNA-A-12 C9200CX Cisco DNA Advantage Term 12-port C9200CX-DNAA-12-3Y C9200CX Cisco DNA Advantage
+12-port
+3 Year Term license C9200CX-DNAA-12-5Y C9200CX Cisco DNA Advantage
+12-port
+5 Year Term license C9200CX-DNAA-12-7Y C9200CX Cisco DNA Advantage
+12-port
+7 Year Term license
+
+		
+
+
+Introduction Extend intent-based networking everywhere
+Cisco ® Catalyst ® 9200 Series switches extend the power of intent-based networking and Catalyst 9000 hardware and software innovation to a broader set of deployments.
+With its family pedigree, Catalyst 9200 Series switches offer simplicity without compromise -it is secure, always on, and IT simplified.
+As foundational building blocks for the Cisco Digital Network Architecture, Catalyst 9200 Series switches help customers simplify complexity, optimize IT, and reduce operational costs by leveraging intelligence, automation and human expertise that no other vendor can deliver regardless of where you are in the intent -based networking journey.
+Catalyst 9200 Series switches provide security features that protect the integrity of the hardware as well as the software and all data that flows through the switch.
+It provides resiliency that keeps your business up and running seamlessly.
+Combine that with open APIs of Cisco IOS XE ® and programmability of the UADP ASIC technology, Catalyst 9200 Series switches give you what you need now with investment protection on future innovations.
+With full PoE+ capability, power and fan redundancy, stacking bandwidth up to 160 Gbps , modular uplinks, Layer 3 feature support, and cold patching, Catalyst 9200 Series switches are the industry's unparalleled solution with differentiated resiliency and progressive architecture for cost-effective branch-office access.
+Catalyst 9200 Series switches also provide operational choice of CLI, Cisco Catalyst Center (formerly Cisco DNA Center) on-premises management, or cloud monitoring for Catalyst on Meraki dashboard.
+Product overview
+Product highlights
+• Full Power over Ethernet Plus (PoE+) capability for up to 48 ports for C9200.
+Power over Ethernet Plus (PoE+) capability for up to 12 ports, IEEE 802.3bt class 6 and Cisco UPOE capability for up to 8 ports for C9200CX.
+• Resiliency with Field-Replaceable Units (FRU) and redundant power supply, fans, and modular uplinks for C9200 models.
+C9200CX models are fanless and are powered by internal fixed power supply or optional power adapters, when not powered by upstream IEEE 802.3bt class 6 60W PSE.
+• Flexible power source options from line voltage AC, low voltage DC to High Voltage DC (HVDC) in C9200CX models provide the choices for customers to migrate to efficient DC micro grid powered by renewable energy sources for a sustainable future.
+• Flexible downlink options with data, PoE+, UPOE, UPOE with mGig for Wi-Fi 6/6E.
+• Operational efficiency with optional backplane stacking, supporting stacking bandwidth up to 160 Gbps.
+• UADP 2.0 Mini with integrated CPU offers customers optimized scale with better cost structure.
+• Enhanced security with AES-128 MACsec encryption on C9200 and AES-256 MACsec encryption for C9200CX models, policy-based segmentation, and trustworthy solutions for the whole Catalyst 9200 Series.
+• Layer 3 https://apps.cisco.com/Commerce/
+and CLI operations options
+Network modules
+Cisco Catalyst 9200 Series switches come with modular or fixed uplinks as indicated in Table 
+1
+With modular SKUs, the field-replaceable network modules provide infrastructure investment protection by allowing a nondisruptive migration from 1G to 10G and beyond.
+When you purchase the switch, you can choose from the network modules described in Table 
+3
+For additional details, please read our FAQ: https://www.cisco.com/c/dam/en/us/products/collateral/switches/catalyst-9000/nb-09-cat-9k-faq-cteen.pdf.
+Platform resiliency
+Power supplies
+Cisco Catalyst 9200 Series switches support dual field-replaceable power supplies (Figure 
+3
+Each switch ships with one default power supply, and a second identical power supply can be purchased with the initial order or can be added later.
+The second power supply can provide redundancy or additional power to PoE+ ports as needed.
+Cisco Catalyst 9200CX Series HVDC models can be powered by high voltage DC as well as line voltage AC with its default power supply.
+These switches support high efficiency and low energy consumption when connected to DC micro grid by avoiding multiple AC-DC conversions.
+The compatibility with AC also provides flexibility and investment protection for moving to DC power in the future.
+• IEEE 802.3bt
+Class 6 and Cisco UPOE (up to 60W per port) is supported on Catalyst 9200CX Series mGig model.
+This facilitates delivery of network power to devices requiring higher power.
+Intelligent PoE+
+• PoE Powered Device (PD) -Catalyst 9200CX-12T-2X2G can be powered through the uplink with IEEE 802.3bt class 6 or UPOE+ power from upstream switch.
+• Perpetual PoE is supported on Cisco Catalyst 9200 Series switches, and maintains the PoE+ power during a switch reload.
+This is important for critical endpoints such as medical devices and for Internet of Things (IoT) endpoints such as PoE-powered lights, so that there is no disruption during a switch reboot.
+• Fast PoE: When power is restored to a switch, Fast PoE starts delivering pow er to endpoints without waiting for the operating system to fully load, thereby speeding up the time for the endpoint to start up .
+-24P PWR-C6-600WAC 370W PWR-C6-600WAC 740W PWR-C6-715WDC= 2 485W PWR-C6-715WDC= 740W C9200-24PB PWR-C6-600WAC 370W PWR-C6-600WAC 740W PWR-C6-715WDC= 485W PWR-C6-715WDC= 740W C9200-24PXG PWR-C6-600WAC 370W PWR-C6-600WAC 740W PWR-C6-715WDC= 485W PWR-C6-715WDC= 740W C9200-48P PWR-C6-1KWAC 740W PWR-C6-1KWAC 1440W PWR-C6-715WDC= 485W PWR-C6-715WDC= 970W C9200-48PL PWR-C6-600WAC 370W PWR-C6-600WAC 740W PWR-C6-715WDC= 485W PWR-C6-715WDC= 970W C9200-48PB PWR-C6-1KWAC 740W PWR-C6-1KWAC 1440W PWR-C6-715WDC= 485W PWR-C6-715WDC= 970W
+C9200-48PXG PWR-C6-1KWAC 740W PWR-C6-1KWAC 1440W PWR-C6-715WDC= 485W PWR-C6-715WDC= 970W C9200L-24P-4G PWR-C5-600WAC 370W PWR-C5-600WAC 740W PWR-C5-715WDC= 2 485W PWR-C5-715WDC= 740W C9200L-24P-4X PWR-C5-600WAC 370W PWR-C5-600WAC 740W PWR-C5-715WDC= 485W PWR-C5-715WDC= 740W C9200L-48P-4G PWR-C5-1KWAC 740W PWR-C5-1KWAC 1440W PWR-C5-715WDC= 485W PWR-C5-715WDC= 970W C9200L-48PL-4G PWR-C5-600WAC 370W PWR-C5-600WAC 740W PWR-C5-715WDC= 485W PWR-C5-715WDC= 970W C9200L-48P-4X PWR-C5-1KWAC 740W PWR-C5-1KWAC 1440W PWR-C5-715WDC= 485W PWR-C5-715WDC= 970W C9200L-48PL-4X PWR-C5-600WAC 370W PWR-C5-600WAC 740W PWR-C5-715WDC= 485W PWR-C5-715WDC= 970W C9200L-24PXG-4X PWR-C5-600WAC 370W PWR-C5-600WAC 740W PWR-C5-715WDC= 485W PWR-C5-715WDC= 740W C9200L-48PXG-4X PWR-C5-1KWAC 740W PWR-C5-1KWAC 1440W PWR-C5-715WDC= 485W PWR-C5-715WDC= 970W C9200L-24PXG-2Y PWR-C5-600WAC 370W PWR-C5-600WAC 740W PWR-C5-715WDC= 485W PWR-C5-715WDC= 740W C9200L-48PXG-2Y PWR-C5-1KWAC 740W PWR-C5-1KWAC 1440W PWR-C5-715WDC= 485W PWR-C5-715WDC= 970W C9200CX-12P-2X2G 315W AC Internal 240W N/A N/A C9200CX-8P-2X2G 315W AC internal 240W N/A N/A C9200CX-8UXG-2X 315W AC internal 240W N/A N/A
+Stacking
+Cisco Catalyst 9200 Series switch models are designed for stacking switches as a single virtual sw itch, enabling customers to have a single management plane and control plane for up to 384 access ports.
+Fan
+Cisco Catalyst 9200 Series switches also come with dual fans and support redundancy.
+Cisco Catalyst 9200 Series switches support redundancy with dual fans.
+On the C9200 SKUs, the fan units are field -replaceable, whereas on the fixed C9200L SKUs, the fan units are fixed.
+C9200CX SKUs are fanless.
+• Automated device provisioning is the ability to automate the process of upgrading software images and installing configuration files on Cisco Catalyst switches when they are being deployed in the network for the first time.
+Cisco provides turnkey solutions such as Plug and Play and Preboot Execution Environment (PXE) that enable an effortless and automated deployment.
+Performance and scalability
+Performance specifications
+• API-driven configuration is available with modern network switches such as Cisco Catalyst 9200 Series switches.
+It supports a wide range of automation features and provides robust open APIs over NETCONF and RESTCONF using YANG data models for external tools, both off the shelf and custom built, to automatically provision network resources.
+• Granular visibility enables model-driven telemetry to stream data from a switch to a destination.
+The data to be streamed is identified through subscription to a data set in a YANG model.
+The subscribed data set is streamed to the destination at specified intervals.
+Additionally, Cisco IOS XE enables the push model.
+It provides near-real-time monitoring of the network, leading to quick detection and rectification of failures.
+Cloud monitoring for Catalyst is also available.
+• Seamless software upgrades and patching supports OS resilience.
+On Cisco Catalyst 9200 Series switches Cisco IOS XE supports cold patching with reboot, which provides fixes for critical bugs and security vulnerabilities between regular maintenance releases.
+This support lets you add patches without having to wait for the next maintenance release.
+Cold patching requires the switch to be rebooted after patching to allow the changes to take effect.
+• Trustworthy solutions built with Cisco Trust Anchor Technologies provide a highly secure foundation for Cisco products.
+With Cisco Catalyst 9200 Series switches, these technologies enable hardware and software authenticity assurance for supply chain trust and strong mitigation against man-in-the-middle attacks that compromise software and firmware.
+Trust Anchor capabilities include image signing, Secure Boot, and Cisco Trust Anchor module.
+• High availability: Cisco Catalyst 9200 Series switches support high-availability features, including the following:
+• Cross-stack EtherChannel provides the ability to configure Cisco EtherChannel technology across different members of the stack for high resiliency.
+• IEEE 802.1s
+Multiple Spanning Tree Protocol (MSTP) provides rapid spanning tree convergence independent of spanning tree timers and also offers the benefit of Layer 2 load balancing and distributed processing.
+• Per-VLAN Rapid Spanning Tree (PVRST+) allows rapid spanning tree (IEEE 802.1w) reconvergence on a per-VLAN spanning tree basis, providing simpler configuration than MSTP.
+In both MSTP and PVRST+ modes, stacked units behave as a single spanning tree node.
+• Switch-port auto-recovery ("err-disable" recovery) automatically attempts to reactivate a link that is disabled because of a network error.
+• The Catalyst 9200 Series platform delivers the best SSO resiliency architecture in a stackable solution with sub-50-ms failover.
+The Foundation of Software-Defined Access
+Secure Segmentation with SD-Access
+Software-Defined Access
+The enterprise network lies at the heart of digital transformation.
+A network that is open, programmable, integrated, and secure maximizes business agility, allowing new business opportunities to be pursued and captured.
+Cisco DNA with SD-Access is the network fabric that powers business.
+It is an open and extensible softwaredriven architecture that accelerates and simplifies your enterprise network operations.
+The programmable architecture frees your IT staff from time-consuming, repetitive network configuration tasks so they can focus instead on innovation that positively transforms your business.
+SD-Access enables policy-based automation from edge to cloud with foundational capabilities.
+These include:
+• Simplified device deployment
+• Unified management of wired and wireless networks
+• Network virtualization and segmentation
+• Group-based policies
+• Context-based analytics
+• SD-Access: Cisco Catalyst 9200 Series switches are the entry-level devices for SD-Access, Cisco's lead enterprise architecture, with policy-based automation from edge to cloud.
+• Simplified segmentation and micro-segmentation, with predictable performance and scalability
+• Automation through Cisco Catalyst Center
+• Policy handled through the Cisco Identity Services Engine (ISE)
+• Faster launch of new business services and significantly improved issue resolution time
+Assurance
+• Full network visibility and monitoring
+• End-to-end Quality of Experience (QoE)
+• Fast issue resolution and network remediation
+• Plug and Play (PnP) enabled: A simple, secure, unified, and integrated offering to ease new branch or campus device rollouts or updates to an existing network
+Cloud Security Umbrella Integration
+• Umbrella Integration: Small to midsize networks reliant on managed service providers can now host Cisco Umbrella agent directly on their Catalyst 9200 series switches.
+This allows the business to easily customize their DNS filtering policies to prevent BYOD or IoT guest or corporate users from accessing malicious or inappropriate websites, without having to rely on the MSP to push the policies out.
+It also lets them optimize use of bandwidth by allowing direct cloud access for trusted apps.
+Requires Cisco DNA-Advantage License and Umbrella License per device.
+Full Flexible NetFlow
+• Full Flexible NetFlow (FNF): Cisco IOS FNF is the next generation in flow visibility technology.
+It enables optimization of the network infrastructure, reduces operation costs, and improves capacity planning and security incident detection with increased flexibility and scalability.
+Catalyst 9200 Series switches are capable of up to 16,000 flow entries on 48-port,24, 12 and 8 port models.
+QoS
+• Superior QoS: Cisco Catalyst 9200 Series switches offer Gigabit Ethernet speeds with intelligent services that keep traffic flowing smoothly, even at 10 times the normal network speed.
+Industry-leading mechanisms for cross-stack marking, classification, and scheduling deliver superior performance for data, voice, and video traffic at wire speed.
+Superior QoS includes granular wireless bandwidth management and fair sharing, 802.1p
+Class of Service (CoS) and Differentiated Services Code Point (DSCP) field classification, Shaped Round Robin (SRR) scheduling, Committed Information Rate (CIR), and eight egress queues per port.
+Smart operation
+WebUI
+WebUI is an embedded GUI-based device-management tool that provides the ability to provision the device, to simplify device deployment and manageability, and to enhance the user experience.
+It comes with the default image, so there is no need to enable anything or install any license on the device.
+You can use WebUI to build configurations, and to monitor and troubleshoot the device without having CLI expertise.
+RFID tags
+Cisco Catalyst 9200 Series switches have an embedded RFID tag that facilitates easy asset and inventory management using commercial RFID readers.
+Blue beacon
+Cisco Catalyst 9200 Series switches support both front and back blue beacon LEDs for easy identification of the switch being accessed.
+Efficient switch operation
+Cisco Catalyst 9200 Series switches provide optimum power saving with Energy Efficient Ethernet (EEE) on the RJ-45 ports and low-power operations for industry best-in-class power management and power consumption capabilities.
+The ports support reduced power modes so that ports not in use can move into a lower power utilization state.
+Other efficient switch operation features are as follows:
+• Per-port power consumption command allows customers to specify a maximum power setting on an individual port.
+• Per-port PoE power sensing measures actual power being drawn, enabling more intelligent control of powered devices.
+The PoE MIB provides proactive visibility into power usage and allows you to set different power-level thresholds.
+Bluetooth ready
+Cisco Catalyst 9200 Series switches have hardware support to connect a Bluetooth dongle to your switch, enabling you to use this wireless interface as an IP management port interface.
+The port can be used for configuration and troubleshooting using WebUI or the Command-Line Interface (CLI), and to transfer images and configurations.
+Storage
+Cisco Catalyst 9200CX switches have hardware support for up to 4G Micro-SD card storage.
+High-performance IP routing
+The Cisco Express Forwarding hardware routing architecture delivers extremely high-performance IP routing in Cisco Catalyst 9200 Series switches, based on: • Protocol-Independent Multicast (PIM) for IP multicast routing is supported, including PIM sparse mode (PIM SM), and Source-Specific Multicast (SSM).
+• IPv6 addressing is supported on interfaces with appropriate show commands for monitoring and troubleshooting.
+Licensing
+Introduction to Smart Licensing
+Cisco Smart Licensing is a flexible licensing model that provides you with an easier, faster, and more consistent way to purchase and manage software across the Cisco portfolio and across your organization.
+And it's secure -you control what users can access.
+With Smart Licensing you get:
+• Easy Activation: Smart Licensing establishes a pool of software licenses that can be used across the entire organization-no more PAKs (Product Activation Keys).
+• Unified Management: My Cisco Entitlements (MCE) provides a complete view into all of your Cisco products and services in an easy-to-use portal, so you always know what you have and what you are using.
+• License Flexibility: Your software is not node-locked to your hardware, so you can easily use, and transfer licenses as needed.
+To use Smart Licensing, you must first set up a Smart Account on Cisco Software Central (software.cisco.com).
+For a more detailed overview on Cisco Licensing, go to cisco.com/go/licensingguide
+Software licenses
+Managing licenses with Smart Accounts
+Creating Smart Accounts by using the Cisco Smart Software Manager (Cisco SSM) enables you to order devices and licensing packages and also manage your software licenses from a centralized website.
+You can set up Cisco SSM to receive daily email alerts and to be notified of expiring add-on licenses that you want to renew.
+You must order an add-on license in order to purchase a switch.
+When the license term expires, you can either renew the add-on license to continue using it or deactivate the add-on license and then reload the switch to continue operating with the base license capabilities.
+Both the base and add-on licenses are also available for a 90-day evaluation period.
+An evaluation license is activated temporarily, without purchase.
+An expired evaluation license cannot be reactivated after reload.
+Note: It is not required to deploy Cisco Catalyst Center, just to use one of the above packages.
+Table 
+11
+Table 
+12
+Product sustainability
+Refer to the CSR/Social Responsibility section for more information on Cisco's environmental sustainability policies and initiatives.
+• LpA: 42dB typical, 45 dB max
+• LwA: 5.3B typical, 5.6B max With AC power supply (with 24 PoE+ ports loaded):
+• LpA: 42dB typical, 45 dB max
+• LwA: 5.3B typical, 5.6B max Typical: Noise emission for a typical configuration Maximum: Statistical maximum to account for variation in production
+Connectors
+Table 
+16
+Power connectors
+• Internal power supply connector: The internal power supply is an auto-ranging unit.
+It supports input voltages between 100 and 240 VAC.
+Use the supplied AC power cord to connect the AC power connector to an AC power outlet.
+For the latest Cisco transceiver module compatibility information, refer to https://www.cisco.com/c/en/us/td/docs/interfaces_modules/transceiver_modules/compatibility/matrix/TMG_C
+M_Tool_User_Manual.html.
+Management and standards support
+Table 
+17
+Power supply specifications
+Operating temperature
+Normal operating temperature * and altitudes:
+• -5°C to +45°C, up to 5000 feet (1500m) (-5°C to +40°C for C9200CX-8UXG-2X and C9200CX-8UXG-2XH)
+• -5°C to +40°C, up to 10,000 feet (3000m) * Minimum ambient temperature for cold start is 32°F (0°C) Short-term * exceptional conditions: (9200L/9200 only)
+• -5°C to +50°C, up to 5000 feet (1500m)
+• -5°C to +45°C, up to 10,000 feet (3000m)
+• -5°C to +45°C, at sea level with single fan failure * Not more than following in one-year period: 96 consecutive hours, or 360 hours total, or 15 occurrences
+Description
+LED indicators
+"AC OK": Input power to the power supply is OK "PS OK": Output power from the power supply is OK * Use shielded cables for locations other than telecom centers
+Power consumption of Standalone 9200 Series switches
+Safety and compliance
+Table 
+20
+Safety certifications
+• IEC 60950-1/62368-1
+• UL 60950-1/62368-1
+• CAN/CSA C22.2 No. 60950-1/62368-1
+• EN 60950-1/62368-1
+• AS/NZS 60950.1,
+AS/NZS 62368.1
+• Class I Equipment
+Electromagnetic compatibility certifications
+• 47 CFR Part 15
+• CISPR 32 Class A
+• CNS 13438
+• EN 300 386 *
+• EN 55032 Class A
+• EN61000-3-2
+• EN61000-3-3
+• ICES-003 Class A
+• KN 32
+• TCVN 7189 Class A
+• V-3 Class A
+• CISPR 35 Your formal warranty statement, including the warranty applicable to Cisco software, appears in the information packet that accompanies your Cisco product.
+We encourage you to review the warranty statement shipped with your specific product carefully before use.
+Cisco reserves the right to refund the purchase price as its exclusive warranty remedy.
+For further information about warranty terms, visit https://www.cisco.com/go/warranty.
+Warranty duration
+As long as the original customer owns the product.
+End-of-life policy
+In the event of discontinuance of product manufacture, Cisco warranty support is limited to 5 years from the announcement of discontinuance.
+Hardware replacement
+Cisco or its service center will use commercially reasonable eff orts to ship a replacement for NBD delivery, where available.
+Otherwise, a replacement will be shipped within 10 working days after receipt of the Return Materials Authorization (RMA) request.
+Actual delivery times might vary depending on customer location.
+Effective date
+Hardware warranty commences from the date of shipment to customer (and in case of resale by a Cisco reseller, not more than 90 days after original shipment by Cisco).
+TAC support
+Cisco will provide during business hours, 8 hours per day, 5 days per week, basic configuration, diagnosis, and troubleshooting of device-level problems for up to a 90-day period from the date of shipment of the originally purchased Cisco Catalyst 9200 Series product.
+This support does not include solution or network-level support beyond the specific device under consideration.
+Cisco.com access
+Warranty allows guest access only to Cisco.com.
+* For 9200CX switch models with internal HVDC power supply, customer or system integrator is responsible for the power cable as HVDC switches are usually installed in DC micro grid with customized cables and connectors.
+For more information, please consult with your Cisco sales representative.
+Cisco services for next-generation Cisco Catalyst switches
+Ordering
+Ordering information
+Mounting Accessories
+Cisco Capital
+Flexible payment solutions to help you achieve your objectives
+Cisco Capital makes it easier to get the right technology to achieve your objectives, enable business transformation and help you stay competitive.
+We can help you reduce the total cost of ownership, conserve capital, and accelerate growth.
+In more than 100 countries, our flexible payment solutions can help you acquire hardware, software, services and complementary third-party equipment in easy, predictable payments.
+Learn more.
+Figure 2 .1
+2
+Figure 2. Cisco Catalyst 9200 Series Switch network modulesTable 3. Network module part numbers and descriptions
+Figure 3 .
+3
+Figure 3. Cisco Catalyst 9200 Series Switch dual redundant power supplies
+Figure 4 .
+4
+Figure 4. Cisco Catalyst 9200 Series Switch stacked units
+-ETHERNET-EXT-MIB CISCO-CIRCUIT-INTERFACE-MIB CISCO-PRIVATE-VLAN-MIB CISCO-CONFIG-COPY-MIB CISCO-PROCESS-MIB CISCO-CONFIG-MAN-MIB CISCO-PRODUCTS-MIB CISCO-DEVICE-LOCATION-MIB CISCO-RF-MIB Description Specification CISCO-DHCP-SNOOPING-MIB CISCO-RTP-METRICS-MIB CISCO-EIGRP-MIB CISCO-RTTMON-ICMP-MIB CISCO-EMBEDDED-EVENT-MGR-MIB CISCO-STACKWISE-MIB CISCO-ENTITY-FRU-CONTROL-MIB CISCO-STP-EXTENSIONS-MIB CISCO-ENTITY-SENSOR-MIB CISCO-SYSLOG-MIB CISCO-ENTITY-VENDORTYPE-OID-MIB CISCO-TCP-MIB CISCO-ERR-DISABLE-MIB CISCO-UDLDP-MIB CISCO-FLASH-MIB CISCO-VLAN-IFTABLE-RELATIONSHIP-MIB CISCO-FLOW-MONITOR-MIB ENTITY-MIB CISCO-FTP-CLIENT-MIB HC-ALARM-MIB CISCO-HSRP-EXT-MIB HC-RMON-MIB CISCO-HSRP-MIB IEEE8023-LAG-MIB CISCO-IETF-BFD-MIB IF-MIB CISCO-IETF-PPVPN-MPLS-VPN-MIB IP-FORWARD-MIB CISCO-IETF-PW-MPLS-MIB IP-MIB CISCO-IF-EXTENSION-MIB LLDP-EXT-MED-MIB CISCO-IGMP-FILTER-MIB LLDP-MIB CISCO-IMAGE-LICENSE-MGMT-MIB MAU-MIB CISCO-IMAGE-MIB MPLS-L3VPN-STD-MIB CISCO-IP-CBR-METRICS-MIB MPLS-LSR-STD-MIB CISCO-IP-STAT-MIB MPLS-VPN-MIB CISCO-IP-TAP-MIB OLD-CISCO-CHASSIS-MIB CISCO-IP-URPF-MIB OLD-CISCO-CPU-MIB CISCO-IPSEC-FLOW-MONITOR-MIB OLD-CISCO-INTERFACES-MIB CISCO-IPSEC-MIB OLD-CISCO-IP-MIB CISCO-IPSEC-PROVISIONING-MIB OLD-CISCO-MEMORY-MIB CISCO-IPSLA-AUTOMEASURE-MIB OLD-CISCO-SYS-MIB -AUTH-USER-MIB SMON-MIB CISCO-MAC-NOTIFICATION-MIB SNMPv2-MIB CISCO-MDI-METRICS-MIB SONET-MIB CISCO-MEDIA-METRICS-MIB TCP-MIB CISCO-MEMORY-POOL-MIB UDP-MIB CISCO-MPLS-LSR-EXT-STD-MIB CISCO-NBAR-PROTOCOL-DISCOVERY-MIB
+ICES
+ft. (3000 meters), up to 45°C EMC compliance FCC Part 15 (CFR 47) Class A 1/62368-1, CAN/CSA-C22.2
+No. 60950-1/62368-1, EN 60950-1/62368-1, IEC 60950-1/62368-1, CCC, CE Marking
+6 Power Supply -Secondary Power Supply PWR-C6-600WAC (=) 600W AC Config 6 Power Supply PWR-C6-600WAC/2 600W AC Config 6 Power Supply -Secondary Power Supply PWR-C6-1KWAC (=) 1KW AC Config 6 Power Supply AC power cord for Cisco Catalyst (Brazil), 10A/250V BR-3-10 plug up to 10A CAB-C15-CBN Cabinet jumper power cord, 250VAC 13A, C14 -C15 connectors
+Table 4
+4
+lists the PoE power availability for each model.
+Table 4 .
+4
+PoE+
+Power with primary and secondary power suppliesModelPrimary
+power supply Available PoE power with single primary power supply only 1 Optional secondary power supply Available PoE power with additional secondary power supply 1
+Table 5
+5
+lists the supported stacking options.
+Table 5 .
+5
+Supported stacking options
+Model
+Stacking
+Stacking
+Stacking hardware
+Number of
+Supported stack members
+support
+bandwidth
+members
+support
+Modular models
+StackWise-160 160 Gbps
+C9200-STACK-KIT 8
+Other C9200 models with
+(C9200 SKUs)
+same license level
+Fixed models
+StackWise-80
+80 Gbps
+C9200L-STACK-KIT 8
+Other C9200L models with
+(C9200L SKUs)
+same license level
+Mixed stacking is not supported. You cannot stack fixed (C9200L SKUs) with modular (C9200 SKUs) models,
+or other Catalyst switches, e.g. Cisco Catalyst 2960-X and 2960-XR Series. Stacking not available on C9200CX
+switches.
+The optional StackWise-160 and StackWise-80 kits consist of two adapters and a stacking cable. The default
+stacking cable is 0.5 m, but options of 1 m and 3 m are also available.
+Table 6 lists the stacking accessories.
+Table 6 .
+6
+Stacking accessories
+Model
+Description
+C9200-STACK-KIT
+Stack kit for C9200 SKUs only: Two data stack adapters and one data stack cable
+C9200L-STACK-KIT
+Stack kit for C9200L SKUs only: Two data stack adapters and one data stack cable
+STACK-T4-50CM
+Data stack 50 cm cable (default cable with Stack Kit)
+STACK-T4-1M
+Data stack 1 m cable
+STACK T4-3M
+Data stack 3 m cable
+Table 7
+7
+lists the fan module part number.
+Table 7 .
+7
+Fan modules
+Model
+Table 8. Performance specifications Description C9200 SKUs C9200L SKUs C9200CX SKUs
+Virtual Networks
+4 for C9200-24T,
+1
+16
+C9200-24P, C9200-
+48T, C9200-48P,
+C9200-24PXG, C9200-
+48PXG, C9200-48PL
+32 for C9200-24PB,
+C9200-48PB
+Stacking bandwidth
+160 Gbps
+80 Gbps
+N/A
+Total number of MAC
+32,000
+16,000
+32,000
+addresses
+Total number of IPv4 routes (ARP plus learned routes)
+Description
+C9200 SKUs
+C9200L SKUs
+C9200CX SKUs
+IPv4 routing entries
+4,000
+3,000
+4,000
+IPv6 routing entries
+2,000
+1,500
+2,000
+Multicast routing scale
+1,000
+1,000
+1,000
+QoS scale entries
+1,000
+1,000
+1,000
+ACL scale entries
+1,600
+1,500
+1,600
+Packet buffer per SKU
+6 MB buffers for 24-or
+6 MB buffers for 24-or 48-
+6 MB buffers
+48-port Gigabit Ethernet
+port Gigabit Ethernet models,
+models, 12MB buffers for
+12 MB buffers for 24 or 48
+24 or 48 port multigigabit
+port multigigabit models
+models
+Flexible NetFlow (FNF) entries 16,000 flows on 24-and
+16,000 flows on 24-and 48-
+16,000 flows
+48-port Gigabit Ethernet
+port Gigabit Ethernet models,
+models
+32,000 flows on 24 or 48 port
+multigigabit models
+DRAM
+4 GB
+2 GB
+4 GB
+Flash
+4 GB
+4 GB
+8 GB
+VLAN IDs
+4096
+4096
+4096
+PVST Instances
+128
+128
+128
+STP Virtual Ports
+13,000
+13,000
+13,000
+(Port * VLANs) for PVST
+14,000 (10,000 direct
+11,000 (8,000 direct routes
+14,000 (10,000 direct routes
+routes and 4,000
+and 3,000 indirect routes)
+and 4,000 indirect routes)
+indirect routes)
+STP Virtual Ports (Port * VALNs) for MST
+13,000
+13,000
+13,000
+Total Switched Virtual Interfaces (SVIs)
+1000
+512
+1000
+Jumbo frames
+9198 bytes
+9198 bytes
+9198 bytes
+Wireless bandwidth per switch
+Up to 48 Gbps on 24-port and 48-port Gigabit
+N/A
+N/A
+Ethernet model
+IP SGT binding scale
+8K
+10K
+8K
+Number of IPv4 bindings
+8K
+10K
+8K
+Number of SGT/DGT policies 2K
+2K
+2K
+Number of SXP Sessions
+200
+200
+200
+Description Switching capacity Switch capacity with Stacking Forwarding rate Forwarding rate with Stacking C9200CX-8P-2X2G 60
+Gbps
+N/A
+44.64 Mpps
+N/A
+C9200CX-8UXG-2X
+128 Gbps
+N/A
+95.23 Mbps
+N/A
+C9200CX-12P-2XGH
+68 Gbps
+N/A
+50.59 Mpps
+N/A
+C9200CX-8P-2XGH
+60 Gbps
+N/A
+44.64 Mpps
+N/A
+C9200CX-8UXG-2XH
+128 Gbps
+N/A
+95.23 Mbps
+N/A
+* Measured with 64 byte packets
+Software Platform software benefits Cisco IOS XE Cisco
+IOS XE Software opens a completely new paradigm in network configuration, operation, and monitoring through network automation.
+Cisco's automation solution is open, standards-based, and extensible across the entire lifecycle of a network device.
+The various automation mechanisms are outlined below.
+IP unicast routing protocols (including static, Routing Information Protocol Version 1 [RIPv1], RIPv2, RIPng, and Open Shortest Path First [OSPF], Routed Access) are supported fo r small network routing applications with the Network Essentials stack.
+Equal-cost routing facilitates Layer 3 load balancing and redundancy across the stack.
+• Advanced IP unicast routing protocols (including Full [OSPF], Enhanced Interior Gateway Routing
+Protocol [EIGRP], and Intermediate System-to-Intermediate System Version 4 [IS-ISv4]) are supported
+for load balancing and for constructing scalable LANs. Ipv6 routing (using OSPFv3 and EIGRPv6) is
+supported in hardware for maximum performance.
+•
+Table 10 .
+10
+License matrix
+Cisco Catalyst Software
+Cisco DNA subscription
+Network Stack
+Subscription new
+Packages 1
+3, 5 or 7 Year Terms
+3, 5 or 7 Year Terms
+Perpetual
+Tiers
+Advantage, Essentials
+Advantage, Essentials
+Advantage, Essentials
+Portability 2
+✓
+✓
+✓
+Management options
+Catalyst Center, Meraki
+Catalyst Center, Meraki
+CLI, Web UI
+Dashboard
+Dashboard
+Included support
+Base product-level support
+Software support (SWSS)
+X
+for Hardware, Software and
+OS
+Included 3 add-ons:
+X
+X
+X
+Common ISE policy,
+Thousand Eyes network and
+application assurance,
+Cisco Spaces
+1 For all new orders, subscription licenses are mandatory and must be of the same tier as network licenses 2 Portability within the same Catalyst 9K series of hardware3Only available with Advantage tierNetwork licensing
+Table 11 .
+11
+Network Essentials and Advantage (Perpetual) features
+Features on Cisco Catalyst uplink switches Network Essentials Network Advantage Switch fundamentals
+Features on Cisco Catalyst uplink switches
+Network Essentials
+Network Advantage
+Security
+Yes
+Yes
+MACsec-128 (MACsec-256 on C9200CX SKUs)
+Cisco Catalyst Software licensing
+Yes
+Yes
+Layer 2, Routed Access (RIP, EIGRP Stub, OSPF --1000 routes), PBR, PIM
+Stub Multicast (1000 routes), PVLAN, VRRP, PBR, CDP, QoS, FHS, 802.1X,
+MACsec-128, CoPP, SXP, IP SLA Responder, SSO
+Advanced switch capabilities and scale
+No
+Yes
+EIGRP, HSRP, IS-IS, BSR, MSDP, IP SLA, OSPF
+Network segmentation
+No
+Yes
+VRF, VXLAN, LISP, SGT
+Automation
+Yes
+Yes
+NETCONF, RESTCONF, YANG, PnP Agent, PnP
+Telemetry and visibility
+Yes
+Yes
+Model-driven telemetry, sampled NetFlow, SPAN, RSPAN
+Table 12 .
+12
+Cisco Catalyst Essentials and Advantage Package Features
+Features
+network bring-up automation Cisco Network Plug-and-Play application, network settings, device credentials, LAN automation, host onboarding
+Yes
+Yes
+Yes
+Yes
+Element management
+Yes
+Yes
+Yes
+Yes
+Discovery, inventory, topology, software image,
+licensing, and configuration management
+Element management
+No
+Yes
+No
+Yes
+Patch management
+Basic
+Assurance Health dashboards -Network, Client, Application; switch and wired client health monitoring
+Yes
+Yes
+Yes
+Yes
+SD
+-Access Policy-based automation and assurance for wired and wireless
+No
+Yes
+No
+Yes
+Network
+assurance and analytics Global insights, trends, compliance, custom reports; switch 360, wired client 360; fabric and non-fabric insights; app health, app 360, app performance (loss, latency, jitter)
+No
+Yes
+No
+Yes
+Cloud monitoring for Catalyst
+Yes *
+Yes
+Yes *
+Yes
+* Limited device visibilityFor a full list of features, please refer to Cisco Feature Navigatorcfnng.cisco.com
+Cisco Catalyst 9200 Series switches run on Cisco IOS XE Release 16.9.2
+or later.
+This software release includes all the features listed earlier in the Platform Software Benefits section.
+Table 13 .
+13
+Sustainability References
+Sustainability Topic
+SpecificationsDimensions, weight, acoustic, mean time between failures
+Table 12 -
+12
+15 show the dimensions, weights, acoustic, and mean time between failures of all models of Cisco Catalyst 9200 Series switches.
+Table 14 .
+14
+Model Dimensions
+Platform Physical Specifications
+Chassis Dimensions
+Chassis + FEP + Fan Dimensions (HxWxD)
+Model
+Inches
+Centimeters
+Inches
+Centimeters
+C9200-24T
+1.73 x 17.5 x 13.8
+4.4 x 44.5 x 35.0
+1.73 x 17.5 x 15.4
+4.4 x 44.5 x 39.1
+C9200-24P
+1.73 x 17.5 x 13.8
+4.4 x 44.5 x 35.0
+1.73 x 17.5 x 15.4
+4.4 x 44.5 x 39.1
+C9200-24PB
+1.73 x 17.5 x 13.8
+4.4 x 44.5 x 35.0
+1.73 x 17.5 x 15.4
+4.4 x 44.5 x 39.1
+C9200-24PXG
+1.73 x 17.5 x 13.8
+4.4 x 44.5 x 35.0
+1.73 x 17.5 x 15.4
+4.4 x 44.5 x 39.1
+C9200-48T
+1.73 x 17.5 x 13.8
+4.4 x 44.5 x 35.0
+1.73 x 17.5 x 15.4
+4.4 x 44.5 x 39.1
+C9200-48P
+1.73 x 17.5 x 13.8
+4.4 x 44.5 x 35.0
+1.73 x 17.5 x 15.4
+4.4 x 44.5 x 39.1
+C9200-48PL
+1.73 x 17.5 x 13.8
+4.4 x 44.5 x 35.0
+1.73 x 17.5 x 15.4
+4.4 x 44.5 x 39.1
+C9200-48PB
+1.73 x 17.5 x 13.8
+4.4 x 44.5 x 35.0
+1.73 x 17.5 x 15.4
+4.4 x 44.5 x 39.1
+C9200-48PXG
+1.73 x 17.5 x 13.8
+4.4 x 44.5 x 35.0
+1.73 x 17.5 x 15.4
+4.4 x 44.5 x 39.1
+C9200L-24T-4G
+1.73 x 17.5 x 11.3
+4.4 x 44.5 x 28.8
+1.73 x 17.5 x 12.9
+4.4 x 44.5 x 32.9
+C9200L-24P-4G
+1.73 x 17.5 x 11.3
+4.4 x 44.5 x 28.8
+1.73 x 17.5 x 12.9
+4.4 x 44.5 x 32.9
+C9200L-48T-4G
+1.73 x 17.5 x 11.3
+4.4 x 44.5 x 28.8
+1.73 x 17.5 x 12.9
+4.4 x 44.5 x 32.9
+Table 15 .
+15
+Model Weights
+Model
+Pounds
+Kilograms
+C9200-24T
+11.02
+5.0
+C9200-24P
+12.12
+5.5
+C9200-24PB
+12.12
+5.0
+C9200-24PXG
+11.33
+5.1
+C9200-48T
+11.02
+5.0
+C9200-48P
+12.12
+5.5
+C9200-48PL
+12.12
+5.5
+C9200-48PB
+12.12
+5.5
+C9200-48PXG
+11.98
+5.45
+C9200L-24T-4G
+9.59
+4.35
+C9200L-24P-4G
+10.38
+4.71
+C9200L-48T-4G
+9.97
+4.53
+C9200L-48P-4G
+10.58
+4.80
+C9200L-48PL-4G
+10.58
+4.80
+C9200L-24T-4X
+9.59
+4.35
+C9200L-24P-4X
+10.38
+4.71
+C9200L-48T-4X
+9.97
+4.53
+C9200L-48P-4X
+10.58
+4.80
+C9200L-48PL-4X
+10.58
+4.80
+C9200L-24PXG-4X
+12
+5.44
+C9200L-24PXG-2Y
+12
+5.44
+C9200L-48PXG-4X
+12.6
+5.71
+C9200L-48PXG-2Y
+12.6
+5.71
+C9200CX-12T-2X2G
+4.0
+1.81
+C9200CX-12P-2X2G
+6.6
+2.99
+C9200CX-8P-2X2G
+6.6
+2.99
+C9200CX-8UXG-2X
+7.0
+3.18
+Table 16 .
+16
+Model Mean time between failures metrics
+Mean time between failures (hours)
+C9200-24T
+587,800
+C9200-24P
+422,310
+C9200-24PB
+434,220
+C9200-24PXG
+353,960
+C9200-48T
+571,440
+C9200-48P
+375,570
+C9200-48PL
+375,570
+C9200-48PB
+384,980
+C9200-48PXG
+320,440
+C9200L-24T-4G
+531,030
+C9200L-24P-4G
+392,210
+C9200L-48T-4G
+508,700
+C9200L-48P-4G
+347,760
+C9200L-48PL-4G
+347,760
+C9200L-24T-4X
+525,990
+C9200L-24P-4X
+390,310
+C9200L-48T-4X
+503,400
+C9200L-48P-4X
+346,270
+C9200L-48PL-4X
+346,270
+C9200L-24PXG-4X
+379,410
+C9200L-24PXG-2Y
+374,730
+C9200L-48PXG-4X
+337,360
+Table 17 .
+17
+Model Environmental Ranges
+Environmental ranges
+Acoustic noise
+9200L/9200
+Measured per ISO 7779 and declared per ISO 9296
+With AC power supply (with 48 PoE+ ports loaded):
+Bystander positions operating to an ambient temperature of
+25°C
+Table 18 .
+18
+Connectors
+Power
+Connectors and cabling
+• 1000BASE-T ports: RJ-45 connectors, 4-pair Cat 5E UTP cabling
+• 1000BASE-T SFP-based ports: RJ-45 connectors, 4-pair Cat 5E UTP cabling
+• 100BASE-FX, 1000BASE-SX, -LX/LH, -ZX, -BX10, Dense Wavelength-Division Multiplexing (DWDM)
+and Coarse Wavelength-Division Multiplexing (CWDM) SFP transceivers: LC fiber connectors (single-
+mode or multimode fiber)
+• 10GBASE-SR, LR, LRM (only C9200), ER, ZR, DWDM SFP+ transceivers: LC fiber connectors (single -
+mode or multimode fiber)
+• SFP+ connector
+• Cisco StackWise-160/80 stacking ports: copper-based Cisco StackWise cabling
+• Ethernet management port: RJ-45 connectors, 4-pair Cat 5 UTP cabling• Management console port: 9200/9200L -RJ45 or mini USB connectors.-RJ-45-to-DB9
+cable for PC connections, USB-C adaptor, USB adaptor; 9200CX -Micro USB connector, with option to convert to RJ45 with CAB-CON-USBRJ45
+Table 19 .
+19
+Management and standards support *
+Table 18 lists the power specifications for Cisco Catalyst 9200 Series switches based on the kind of power supply used.
+Table 20 .
+20
+Power supply specifications
+Specification
+Description
+PWR-C5-
+125WAC
+PWR-C6-
+125WAC
+PWR-C5-600WAC
+PWR-C6-600WAC
+PWR-C5-1KWAC
+PWR-C6-1KWAC
+PWR-C5-715WDC
+PWR-C6-715WDC
+C9200CX Internal 315W AC
+C9200CX Internal 315W HVDC/AC C9K-80W-ADPT
+C9K-ADPT-DC
+Power supply
+125W
+125W
+600W
+600W
+1000W 1000W 715W
+715W
+315W
+315W
+80W
+80W
+rated maximum
+Total output BTU
+426.5
+426.5
+2047.3
+2047.3
+3412
+3412
+2440
+2440
+1057.1
+1057.1
+273
+273
+(note: 1000 BTU/hr = 293W)
+BTU/hr, 125W
+BTU/hr, 125W
+BTU/hr, 600W
+BTU/hr, 600W
+BTU/hr, 1000W
+BTU/hr, 1000W
+BTU/hr, 715W
+BTU/hr, 715W
+BTU/hr, 315W
+BTU/hr, 315W
+BTU/hr, 80W
+BTU/hr, 80W
+Input-voltage
+100 to
+100 to
+100 to
+100 to
+100 to
+100 to
+-40 to -
+-40 to -
+100 to
+120-
+100 to
+18 to 60
+range and
+240
+240
+240
+240
+240
+240
+72 VDC
+72 VDC
+240
+418
+240
+VDC
+frequency
+VAC,
+VAC,
+VAC,
+VAC,
+VAC,
+VAC,
+VAC,
+VDC
+VAC,
+50 to
+50 to
+50 to
+50 to 60
+50 to
+50 to
+50 to 60
+100 to
+50 to 60
+60 Hz
+60 Hz
+60 Hz
+Hz
+60 Hz
+60 Hz
+Hz
+277
+Hz
+VAC,
+50 to 60
+Hz
+Input current
+1.6-
+1.6-
+7-2.8A 7-2.8A
+12-6A 12-6A 20-
+20-
+3.95-
+3.95-
+1.8A
+6A -
+0.7A
+0.7A
+11.3A
+11.3A
+1.5A
+0.92A
+1.6A
+Output ratings
+12V at
+12V at
+54V at
+54V at
+54V at
+54V at
+55V at
+55V at
+-55V at
+-55V at
+53V at
+53V at
+10.5A
+10.5A
+11.1A
+11.1A
+16.5A
+16.5A
+13.25A
+13.25A
+4.5A
+4.5A
+1.5A
+1.5A
+5V at
+5V at
+5V at
+5V at
+0.3A
+0.3A
+14A
+14A
+Output holdup
+20 ms
+20 ms
+20 ms
+20 ms
+20 ms
+20 ms
+2 ms
+2 ms
+20 ms
+20 ms
+20 ms
+0.5 ms
+time
+minimu
+minimu
+minimu
+minimum
+minimu
+minimu
+minimu
+minimu
+minimu
+minimu
+minimu
+minimu
+m at
+m at
+m at
+at 100
+m at
+m at
+m at -
+m at -
+m at
+m at
+m at
+m at 18
+100
+100
+100
+VAC
+100
+100
+40 VDC
+40 VDC
+100
+100
+100
+VDC
+VAC
+VAC
+VAC
+VAC
+VAC
+VAC
+VAC
+VAC
+and 380
+VDC
+Table19shows the power consumption of standalone Cisco Catalyst 9200 Series switches based on Alliance for Telecommunications Industry Solutions (ATIS) testing using Internet Mix (IMIX) distribution stream traffic, with input voltage of 115VAC at 60 Hz and no PoE loading.
+The values given are the maximum possible power consumption numbers under the respective test scenarios.
+Table 21 .
+21
+Power consumption of standalone Catalyst 9200 Series switches
+Measured P(W)
+Half port traffic
+Full port traffic
+Weighted
+Pw average
+No link
+(no PoE test
+traffic)
+EEE
+EEE
+SKU
+FEP
+Uplink
+Input
+0.01%/
+10%
+30%
+50%
+100%
+0.01%/
+10%
+30%
+50%
+100%
+25%
+50%
+90%
+100%
+C9200-
+125W
+C9200-
+115VAC 33.09
+36.08
+36.15
+36.20
+36.34 35.51
+41.78
+41.89
+42.00
+42.27
+41.20
+30.65
+TBD
+TBD
+TBD
+TBD
+24T
+(C5/C6)
+NM-
+4X1G
+230VAC 33.15
+35.95
+36.00
+36.06
+36.19 35.36
+41.50
+41.62
+41.74
+42.01
+40.94
+30.53
+TBD
+TBD
+TBD
+TBD
+C9200-
+125W
+C9200-
+115VAC 33.62
+36.99
+37.29
+37.58
+38.26 35.41
+42.00
+42.55
+43.11
+44.49
+41.588
+32.20
+TBD
+TBD
+TBD
+TBD
+24T
+NM-
+4X10G
+230VAC 33.70
+36.85
+37.13
+37.41
+38.10 35.40
+41.75
+42.30
+42.85
+44.22
+41.364
+31.90
+TBD
+TBD
+TBD
+TBD
+C9200-
+600W
+C9200-
+115VAC 43.57
+47.37
+47.42
+47.47
+47.68 46.82
+53.79
+53.91
+54.02
+54.30
+53.14
+40.75
+150.71
+251.67
+416.85
+457.98
+24P
+(C5/C6)
+NM-
+4X1G
+230VAC 43.38
+46.92
+46.95
+47.03
+47.18 46.35
+53.23
+53.34
+53.45
+53.76
+52.59
+40.43
+148.14
+247.03
+406.62
+446.27
+C9200-
+600W
+C9200-
+115VAC 44.62
+48.49
+48.79
+49.11
+49.88 47.02
+54.18
+54.77
+55.34
+56.77
+53.72
+42.55
+144.60
+245.42
+410.22
+451.45
+24P
+(C5/C6)
+NM-
+4X10G
+230VAC 44.32
+48.06
+48.37
+48.66
+49.40 46.41
+53.38
+53.99
+54.51
+55.96
+52.94
+42.26
+142.29
+241.14
+400.76
+440.37
+C9200-
+600W
+C9200-
+115VAC 84.30
+90.90
+91.00
+92.30
+94.20 95.00
+110.60
+111.60
+112.60
+115.20
+109.5
+72.8
+296.8
+506.3
+858.3
+941.5
+24PXG
+(C6)
+NM-
+4X10G
+230VAC 84.10
+90.50
+91.10
+91.60
+92.90 94.30
+108.80
+109.90
+111.00
+113.60
+107.83
+72.24
+287.8
+492.4
+826.7
+909.1
+C9200-
+600W
+C9200-
+115VAC 83.41
+87.59
+88.56
+89.19
+90.85 93.96
+101.38
+103.32
+104.89
+107.22
+101.22
+72.52
+187.94
+290.47
+452.61
+494.88
+24PXG
+(C6)
+NM-
+2X25G
+230VAC 81.90
+86.97
+87.68
+88.38
+90.03 92.21
+99.79
+101.14
+102.45
+105.65
+99.62
+71.74
+185.45
+283.86
+441.83
+480.86
+C9200-
+600W
+C9200-
+115VAC 82.34
+86.78
+87.91
+88.90
+91.64 92.97
+100.93
+103.00
+104.89
+108.81
+100.92
+71.72
+188.86
+289.2
+448.52
+496.28
+24PXG
+(C6)
+NM-
+2X40G
+230VAC 80.05
+84.53
+85.64
+86.69
+89.29 90.26
+99.20
+101.41
+103.56
+108.70
+99.26
+71.72
+185.29
+282.86
+441.33
+480.95
+C9200-
+125W
+C9200-
+115VAC 36.57
+45.09
+45.45
+45.63
+45.70 36.98
+53.95
+55.36
+53.91
+55.87
+52.445
+36.98
+TBD
+TBD
+TBD
+TBD
+48T
+(C5/C6)
+NM-
+4X1G
+230VAC 36.99
+45.58
+45.65
+45.71
+45.86 36.48
+54.51
+54.64
+54.7
+55.04
+52.76
+36.48
+TBD
+TBD
+TBD
+TBD
+Table 22 .
+22
+Safety and compliance information
+Description
+Specification
+centers Warranty Cisco enhanced limited lifetime hardware warranty
+• TCVN 7317
+Environmental
+Reduction of Hazardous Substances (ROHS) 5
+Cisco Catalyst 9200 Series switches come with a Cisco Enhanced Limited Lifetime Warranty (E -LLW) that
+includes Next-Business-Day (NBD) delivery of replacement hardware where available and 90 days of 8x5 Cisco
+Technical Assistance Center (TAC) support.
+• EN 300 386 * • EN 55035 • KN 35 * Use shielded cables for locations other than telecom
+Table 21
+21
+provides information about the E-LLW.
+Table 23 .
+23
+Warranty information
+Cisco E-LLW
+Devices covered
+Applies to Cisco Catalyst 9200 Series switches.
+Achieve infrastructure excellence faster and with less risk.Cisco Catalyst 9000 Switch Services provide expert guidance to help you successfully deploy, manage and support the Cisco Catalyst 9000 switches.With unmatched networking expertise, best practices and innovative tools, we can help you reduce overall upg rade, refresh, and migration costs as you introduce new hardware, software and protocols into the network.Offering a comprehensive lifecycle of services -from implementation, optimization, technical and managed services -Cisco experts help you minimize disruption and achieve operational excellence to extract maximum value from your Cisco Networking cloud ready infrastructure.Learn more about Cisco Services for Enterprise Networks.
+Table 24 .
+24
+Table 22 lists ordering information for Cisco Catalyst 9200 Series switches.
+To place an order, visit the Cisco Ordering home page at: https://www.cisco.com/en/US/ordering/or13/or8/order_customer_help_how_to_order_listing.html .
+C9200 Models Ordering information
+Switch Models
+C9200 models
+Product number
+Product description
+C9200-24T-A
+Catalyst 9200 24-port Data Switch, Network Advantage
+C9200-24T-E
+Catalyst 9200 24-port Data Switch, Network Essentials
+C9200-24P-A
+Catalyst 9200 24-port PoE+ Switch, Network Advantage
+C9200-24P-E
+Catalyst 9200 24-port PoE+ Switch. Network Essentials
+C9200-24PB-A
+Catalyst 9200 24-port PoE+, enhanced VRF, Network Advantage
+C9200-24PXG-E
+Catalyst 9200 24-port 8xmGig, 16x1G, PoE+, Network Essentials
+C9200-24PXG-A
+Catalyst 9200 24-port 8xmGig, 16x1G, PoE+, Network Advantage
+C9200-48T-A
+Catalyst 9200 48-port Data Switch, Network Advantage
+C9200-48T-E
+Catalyst 9200 48-port Data Switch, Network Essentials
+C9200-48P-A
+Catalyst 9200 48-port PoE+ Switch, Network Advantage
+C9200-48P-E
+Catalyst 9200 48-port PoE+ Switch, Network Essentials
+C9200-48PL-A
+Catalyst 9200 48-Port partial PoE+ Switch, Network Advantage
+C9200-48PL-E
+Catalyst 9200 48-Port partial PoE+ Switch, Network Essentials
+C9200-48PB-A
+Catalyst 9200 48-port PoE+, enhanced VRF, Network Advantage
+C9200-48PXG-E
+Catalyst 9200 48-port 8xmGig, 40x1G, PoE+, Network Essentials
+C9200-48PXG-A
+Catalyst 9200 48-port 8xmGig, 40x1G, PoE+, Network Advantage
+Table 31 .
+31
+StackWise Cable Ordering information
+StackWise-80 and StackWise-160 Kit and cables
+Product number
+Product description
+C9200-STACK-KIT=
+C9200 Stack Kit Spare
+C9200L-STACK-KIT=
+C9200L Stack Kit Spare
+STACK-T4-50CM
+50CM Type 3 Stacking Cable
+STACK-T4-50CM=
+50CM Type 3 Stacking Cable, spare
+STACK-T4-1M
+1M Type 3 Stacking Cable
+STACK-T4-1M=
+1M Type 3 Stacking Cable, spare
+STACK-T4-3M
+3M Type 3 Stacking Cable
+STACK-T4-3M=
+3M Type 3 Stacking Cable, spare
+Power supplies
+Table 32 .
+32
+Power Supply Ordering information
+Table 34 .
+34
+Mounting Accessories Ordering informationCisco Catalyst 9200 Series switches support a wide range of optics.Because the list of supported optics is updated on a regular basis, consult the tables available here for the latest SFP+ and SFP compatibility information: https://tmgmatrix.cisco.comWithCisco
+Services, you can achieve infrastructure excellence faster with less risk.Our services for Cisco Catalyst 9200 Series switches provide expert guidance to help you successfully plan, deploy, manage, and support your new switches.With unmatched networking expertise, best practices, and innovative tools, Cisco Services can help you reduce overall upgrade, refresh, and migration costs as you introduce new hardware, software, and protocols into the network.With a comprehensive lifecycle of services, Cisco experts will help you minimize disruption and improve operational efficiency to extract maximum value fro m your Cisco Networking infrastructure.Learn more.CSR/Social ResponsibilityInformation about Cisco's Environmental, Social and Governance (ESG) policies and initiatives can be found in Cisco's Corporate Social Responsibility (CSR) Report.
+Product Number
+Product Description
+ACC-KIT-T1=
+Accessory kit with 19 inch Type 1 rack mount
+RACK-KIT-T1=
+19, 23, 24 inch and ETSI Type 1 rack mount kit
+4PT-KIT-T2=
+4 Point rack mount kit New
+REC-KIT-T1=
+Recessed 1RU rack mount for 9200L and 9200 switches
+C9K-MGNT-TRAY
+Magnet and Mounting Tray for compact switches
+C9K-CMPCT-DIN-MNT
+DIN Rail Mount for compact switches
+RACKMNT-19-CMPACT
+19-Inch Rack Mounting Brackets for compact switches
+C9K-CMPCT-CBLE-GRD Cable guard for compact switches (for C9K-WALL-TRAY)
+C9K-WALL-TRAY
+Wall mount bracket for compact switches
+C9K-CMPCT-DESK-MNT Under desk mount for compact switches
+C9K-ACC-RBFT
+Rubber Feet For Table Top Setup 9200 and 9300
+C9K-ACC-SCR-4
+12-24 and 10-32 Screws For Rack Installation, Qty 4
+CAB-GUIDE-1RU
+1RU Cable Management Guides 9200 and 9300
+C9200-24PB-A, C9200-48PB-A SKUs supports
+Virtual Networks.
+These SKUs cannot be stacked with C9200 SKUs with 4VNs.
+
+
+			
+
+
+Electronic Cisco DNA Upgrade License for C9200L switches.Note: when upgrading from 
+Cisco DNA Essentials
+Cisco DNA Advantage
+Network Essentials
+C9200L-24-E-A C9200L 24
+NW and Cisco DNA Essentials
+Cisco DNA Advantage Upgrade
+C9200L-24-E-A-3 24
+NW and Cisco DNA Ess
+Cisco DNA Adv Upgrade License
+3Y C9200L-24-E-A-5 24
+NW and Cisco DNA Ess
+Cisco DNA Adv Upgrade License
+5Y C9200L-24-E-A-7 24
+NW and Cisco DNA Ess
+Cisco DNA Adv Upgrade License
+7Y C9200L-48-E-A C9200L 48
+NW and Cisco DNA Essentials
+Cisco DNA Advantage Upgrade
+C9200L-48-E-A-3 48
+NW and Cisco DNA Ess
+Cisco DNA Adv Upgrade License 3Y Electronic Cisco DNA Upgrade License
+Cisco DNA Essentials
+Cisco DNA Advantage
+Network Essentials
+C9200CX-8-E-A C9200CX
+NW and Cisco DNA Essentials
+Cisco DNA Advantage Upgrade
+C9200CX-8-E-A-3 C9200CX
+NW and Cisco DNA Ess
+Cisco DNA Adv Upgrade License
+3Y C9200CX-8-E-A-5 C9200CX
+NW and Cisco DNA Ess
+Cisco DNA Adv Upgrade License
+5Y C9200CX-8-E-A-7 C9200CX
+NW and Cisco DNA Ess
+7Y C9200CX-12-E-A C9200CX 12
+NW and Cisco DNA Essentials
+Cisco DNA Advantage Upgrade
+
+				
+
+					
+C9200L-24-E-A C9200L 24
+
+					
+C9200L-24-E-A-3 24
+
+					
+3Y C9200L-24-E-A-5 24
+
+					
+5Y C9200L-24-E-A-7 24
+
+					
+7Y C9200L-48-E-A C9200L 48
+
+					
+C9200L-48-E-A-3 48
+
+					
+C9200CX-8-E-A C9200CX
+
+					
+C9200CX-8-E-A-3 C9200CX
+
+					
+3Y C9200CX-8-E-A-5 C9200CX
+
+					
+5Y C9200CX-8-E-A-7 C9200CX
+
+					
+7Y C9200CX-12-E-A C9200CX 12
+
+
+Power supplies
+Product
+
+
+				
+
+
+
+
+	
+
+		
+CX HVDC models can also operate at 115V or 230V AC
+
+			
+*
+C9200
+the power consumption is the same as the corresponding AC models
+* C9200CX HVDC models can also operate at 115V or 230V AC, the power consumption is the same as the corresponding AC models.

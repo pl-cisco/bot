@@ -1,0 +1,15 @@
+Question: This is Delhi? 
+
+Answer: This is Delhi 
+
+
+Question: This is Paris ?
+
+Answer: This is Paris 
+
+
+Question: This is London ? 
+
+Answer: This is London 
+
+
